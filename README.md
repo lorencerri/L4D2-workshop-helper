@@ -1,5 +1,5 @@
 # L4D2-workshop-helper
-*Installing addons and maps for Left 4 Dead 2 can be a terrible experience if you don't understand .vpk files, what the map names are in the actual game, and where to install them. This script does most of it for you and explains how to switch to the maps inside the admin terminal as well. This is best used in conjunction with LinuxGSM.*
+*Installing addons and maps for Left 4 Dead 2 can be a terrible experience if you don't understand .vpk files, what the map names are in the actual game, and where to install them. This script does most of it for you and explains how to switch to the maps inside the admin terminal as well. This is best used in conjunction with LinuxGSM. **Requires `pip install vpk` to be installed***
 
 Example of `sh ./workshop_helper.sh install <username> <workshop_id>`:<br>
 ![Termius_9Ockorhm0f](https://user-images.githubusercontent.com/6889275/172030260-e4ce9aea-3edc-4071-b4a6-48a6299b04cb.png)
